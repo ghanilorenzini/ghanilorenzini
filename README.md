@@ -6,8 +6,6 @@ I'm a Software Engineering student at **De Haagse Hogeschool**.
 
 - 🎓 3rd year HBO-ICT (Software Engineering)
 - 📍 The Hague, Netherlands
-- 🔭 Currently exploring: **Machine Learning, Data Engineering & AI**
-- 💡 Always looking for the next thing to build
 
 ---
 
