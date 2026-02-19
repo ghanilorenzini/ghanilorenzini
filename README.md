@@ -1,9 +1,6 @@
 # Hey, I'm Ghani 👋
 
-
 ---
-
-## 🧠 About Me
 
 I'm a Software Engineering student at **De Haagse Hogeschool**. 
 
