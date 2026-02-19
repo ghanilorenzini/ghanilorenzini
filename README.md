@@ -2,7 +2,7 @@
 
 ---
 
-I'm a Software Engineering student at **De Haagse Hogeschool**. 
+I'm a Software Engineering student at **The Hague University of Applied Sciences**. 
 
 - 🎓 3rd year HBO-ICT (Software Engineering)
 - 📍 The Hague, Netherlands
